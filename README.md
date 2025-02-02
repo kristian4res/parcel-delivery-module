@@ -34,3 +34,6 @@ Ideally the client for this API would be something that will be used by the empl
 See [API documentation](https://documenter.getpostman.com/view/14208601/2s9YsDkvFU#intro) for the list of available endpoints.
 
 When contributing please first read: [DEV.md](https://github.com/BUAdvDev2023/parcel-delivery-module/blob/main/DEV.md)
+
+### System Design Diagram & Planning
+![System Design Diagram](./assets/parcel_delivery_system_diagram.png)
